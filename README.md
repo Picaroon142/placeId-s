@@ -1,2 +1,1 @@
-# placeId-s
-placeId
+merhaba. :)
